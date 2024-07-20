@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 index/01 MOC 工作/测试Dataview.md",
+                "file": "0 index/01 MOC 工作/测试Advanced Tables.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 index/01 MOC 工作/测试Dataview.md",
+                "file": "0 index/01 MOC 工作/测试Advanced Tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 index/01 MOC 工作/测试Dataview.md",
+                "file": "0 index/01 MOC 工作/测试Advanced Tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 index/01 MOC 工作/测试Dataview.md"
+                "file": "0 index/01 MOC 工作/测试Advanced Tables.md"
               }
             }
           },
@@ -155,13 +155,15 @@
       "command-palette:打开命令面板": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "copilot:Copilot Chat": false
+      "copilot:Copilot Chat": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "fc0557caf6ba04c0",
   "lastOpenFiles": [
-    "0 index/01 MOC 工作/未命名.canvas",
     "0 index/01 MOC 工作/测试Dataview.md",
+    "0 index/01 MOC 工作/测试Advanced Tables.md",
+    "0 index/01 MOC 工作/未命名.canvas",
     "0 index/01 MOC 工作/OpenAI_Obsidian_tutorial.md",
     "0 index/01 MOC 工作/昆明.md",
     "textgenerator/templates/default/summarize.md",
