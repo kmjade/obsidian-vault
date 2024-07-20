@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "00e3b9066844ee9e",
+        "id": "5d93aa42b90fa3b7",
         "type": "tabs",
         "children": [
           {
-            "id": "787b961b1a4fdc26",
+            "id": "fc0557caf6ba04c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 index/01 MOC 工作/OpenAI_Obsidian_tutorial.md",
+                "file": "0 index/01 MOC 工作/测试Dataview.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 246.5
   },
   "right": {
     "id": "2a30f921c608cf22",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 index/01 MOC 工作/OpenAI_Obsidian_tutorial.md",
+                "file": "0 index/01 MOC 工作/测试Dataview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 index/01 MOC 工作/OpenAI_Obsidian_tutorial.md",
+                "file": "0 index/01 MOC 工作/测试Dataview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 index/01 MOC 工作/OpenAI_Obsidian_tutorial.md"
+                "file": "0 index/01 MOC 工作/测试Dataview.md"
               }
             }
+          },
+          {
+            "id": "9f7189cf0ade4045",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -145,11 +154,15 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "787b961b1a4fdc26",
+  "active": "fc0557caf6ba04c0",
   "lastOpenFiles": [
+    "0 index/01 MOC 工作/未命名.canvas",
+    "0 index/01 MOC 工作/测试Dataview.md",
+    "0 index/01 MOC 工作/OpenAI_Obsidian_tutorial.md",
     "0 index/01 MOC 工作/昆明.md",
     "textgenerator/templates/default/summarize.md",
     "textgenerator/templates/default/summarizeLarge.md",
@@ -165,7 +178,6 @@
     "textgenerator/templates/default",
     "textgenerator/templates",
     "textgenerator",
-    "0 index/01 MOC 工作/OpenAI_Obsidian_tutorial.md",
     "欢迎.md",
     "README.md",
     "0 index/00 inbox/111.md",
