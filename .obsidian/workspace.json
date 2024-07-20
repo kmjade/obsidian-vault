@@ -136,14 +136,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "d0263a234ee4ca8f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,10 +164,11 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "copilot:Copilot Chat": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:创建新看板": false
+      "obsidian-kanban:创建新看板": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "b07c1c8b3202ce69",
+  "active": "d0263a234ee4ca8f",
   "lastOpenFiles": [
     "未命名看板.md",
     "0 index/00 inbox/未命名看板.md",
